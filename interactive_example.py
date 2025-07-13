@@ -1,0 +1,3 @@
+from divination.interactive_chart import create_interactive_demo
+
+create_interactive_demo()
